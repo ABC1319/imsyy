@@ -1,33 +1,33 @@
 [
   {
     "icon": "LaptopCode",
-    "name": "Drug导航",
+    "name": "Drug",
     "link": "https://drug.freeee.bf"
   },
   {
     "icon": "Compass",
     "name": "X主页",
-    "link": "https://e41c5ef4-bd84-4e49-97aa-83d3329899bd-00-2ad9fx3xt6k8q.picard.replit.dev/"
+    "link": "https://f6a22411-db9d-4ba1-a784-b8f61fec1cd3-00-3e8aruxfyezqm.kirk.replit.dev/"
   },
   {
     "icon": "BookReader",
     "name": "lib",
-    "link": "https://7a948172-c9f6-4b92-a86f-7f64e5b66252-00-1szltcbh9m6l7.global.replit.dev/"
+    "link": "https://88cf864f-6c34-444c-828b-ac025c3b7d01-00-2zus98qkh4u59.riker.replit.dev/"
   },
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://eb7bb184-a78b-4b8e-a92a-2c23164b0732-00-2fsqmnxpch2pk.picard.replit.dev/"
+    "name": "Blue",
+    "link": "https://1f5699af-9a4b-4790-9364-0d53c94bf0e9-00-1y7jccxi6uben.riker.replit.dev/"
   },  
   {
     "icon": "HouseUser",
-    "name": "Sky - Onenav",
-    "link": "https://9cc7d7c6-c018-42fe-ac22-aeee140ffd20-00-1ix9xqnjt632q.kirk.replit.dev/"
+    "name": "Onenav",
+    "link": "https://3922602c-0dc4-48a1-aaf2-f5062410bed2-00-1qihxg0vhnc0l.janeway.replit.dev/"
   },
   {
     "icon": "Podcast",
-    "name": "Skyの主页",
-    "link": "https://6818f743-0525-48ce-bb97-e9b6bce823f8-00-3d9dpkngtmftt.janeway.replit.dev/"
+    "name": "主页",
+    "link": "https://f6a22411-db9d-4ba1-a784-b8f61fec1cd3-00-3e8aruxfyezqm.kirk.replit.dev/"
   },
   {
     "icon": "LightbulbRegular",
@@ -37,41 +37,41 @@
   {
     "icon": "CompactDisc",
     "name": "music",
-    "link": "https://30dab3ce-e031-4850-86b8-2d303ccecfd8-00-355y491cs0nvl.global.replit.dev/"
+    "link": "https://4183708f-2e0d-4054-a691-731432353448-00-1f1knol6z0jh5.janeway.replit.dev/"
   },
   {
     "icon": "Cloud",
     "name": "Nange",
-    "link": "https://d09baf40-e51a-422a-8c5d-c0e09fe73eb7-00-zliz1q18cb23.kirk.replit.dev/"
+    "link": "https://fe910b13-405e-41be-8eaf-a559aef342bb-00-1y6anpxbvep77.worf.replit.dev/"
   },
   {
     "icon": "Book",
     "name": "Drugx",
-    "link": "https://07266eaf-4ba4-4633-8ca2-183e7a59ade2-00-1uzqc2a1wjycm.kirk.replit.dev/cn/index.html"
+    "link": "https://eb22d7eb-c2f6-4e90-9aaa-6a9306f51f5f-00-r22fbrud93nq.spock.replit.dev/cn/index.html"
   },
   {
     "icon": "Fire",
     "name": "Drugi",
-    "link": "https://7d6218ef-3de1-4d8e-9c39-813d064d47f7-00-1b7li3la5q1o2.global.replit.dev/"
+    "link": "https://82e88c8c-8975-4687-b95e-5a532a6e6fa6-00-o19i4kuabdee.spock.replit.dev/"
   },
   {
     "icon": "Fan",
     "name": "Drugz",
-    "link": "https://ff794050-7c9e-4b44-a145-8537b424076e-00-29lddzn1ruxtq.spock.replit.dev/"
+    "link": "https://77dff3a9-3abe-4019-8222-0ec0e2aa1cb8-00-2d45r8ede97s2.picard.replit.dev/"
   },
   {
     "icon": "Link",
     "name": "Sou",
-    "link": "https://21421b54-ebe5-43a6-bc4c-408a060d943d-00-17blmcom9c88e.global.replit.dev/"
-  },
-  {
-    "icon": "PaperPlane",
-    "name": "jiduo导航",
-    "link": "https://97013798-c6b2-4c4c-9f09-c72a58f42285-00-1albo2ap4rzal.global.replit.dev/"
+    "link": "https://7dd8bd7b-cb9b-42a0-8994-d78ffc6cde77-00-2hruzmvgax5ow.picard.replit.dev/"
   },
   {
     "icon": "Quran",
     "name": "储物间",
     "link": "https://abc1319.github.io/cwj/"
+  },
+  {
+    "icon": "PaperPlane",
+    "name": "jubt",
+    "link": "https://abc1319.github.io/lbt/cn/index.html"
   }
 ]
