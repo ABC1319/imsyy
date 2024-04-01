@@ -7,7 +7,7 @@
   {
     "icon": "Compass",
     "name": "X主页",
-    "link": "https://so.1215420.xyz/"
+    "link": "https://soo.1215420.xyz/"
   },
   {
     "icon": "BookReader",
@@ -17,7 +17,7 @@
   {
     "icon": "Blog",
     "name": "Blue",
-    "link": "https://blueo.1215420.xyz/"
+    "link": "https://blue.1215420.xyz/"
   },  
   {
     "icon": "HouseUser",
@@ -28,21 +28,6 @@
     "icon": "Podcast",
     "name": "主页",
     "link": "https://home0.1215420.xyz/"
-  },
-  {
-    "icon": "LightbulbRegular",
-    "name": "iptvindex-1",
-    "link": "https://iptvindex-1.1215420.xyz/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "music",
-    "link": "https://musictest.1215420.xyz/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "Nange",
-    "link": "https://nangeo.1215420.xyz/"
   },
   {
     "icon": "Book",
@@ -60,11 +45,6 @@
     "link": "https://drugz.1215420.xyz/"
   },
   {
-    "icon": "Link",
-    "name": "Sou",
-    "link": "https://sou.1215420.xyz/"
-  },
-  {
     "icon": "Quran",
     "name": "储物间",
     "link": "https://cwj.1215420.xyz/"
@@ -73,5 +53,25 @@
     "icon": "PaperPlane",
     "name": "jubt",
     "link": "https://lbt.1215420.xyz/cn/index.html"
+  },
+    {
+    "icon": "LightbulbRegular",
+    "name": "iptvindex-1",
+    "link": "https://iptvindex-1.1215420.xyz/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "music",
+    "link": "https://musictest.1215420.xyz/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "Nange",
+    "link": "https://nangeo.1215420.xyz/"
+  },
+    {
+    "icon": "Link",
+    "name": "Sou",
+    "link": "https://sou.1215420.xyz/"
   }
 ]
