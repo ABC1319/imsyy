@@ -42,7 +42,7 @@ import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
 
 // 仓库数据
-const projectData = [
+<!-- const projectData = [
   {
     name: "home",
     author: "imsyy",
@@ -68,7 +68,7 @@ const projectData = [
     author: "imsyy",
     desc: "📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site",
   },
-];
+]; -->
 
 // 计算网站链接
 const projectList = computed(() => {
